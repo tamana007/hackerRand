@@ -1,4 +1,8 @@
+const readlineSync = require('readline-sync');
+
+
 function plusMinus(arr){
+  console.log("Function has started..."); 
   let positiveNum=0;
   let negativeNum=0;
   let zeroNum=0;
@@ -24,5 +28,5 @@ console.log('negative ratios',negativeRatio.toFixed(6));
 console.log('positive ratios',zeroRation.toFixed(6));
 
 
-
+plusMinus([1,1,0,-1,-1])
 }
