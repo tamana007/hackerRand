@@ -6,3 +6,4 @@ function minMax(arr){
   console.log(maxNum);
   console.log(minNum);
 }
+minMax([1,2,3,4,5])
