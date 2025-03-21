@@ -1,6 +1,6 @@
 # Comprehensive JavaScript Arrays Note
 
-This note consolidates **all array-related discussions** from this chat, covering usage, methods, shallow vs. deep copies, and more.
+This note consolidates **all array-related discussions**, covering usage, methods, shallow vs. deep copies, and more.
 
 ---
 
